@@ -1,0 +1,198 @@
+Extracted text has been saved to ./output-Large Language Models explained briefly.txt.
+
+
+Review the results of splitting the long text into several short texts.
+
+
+========== The 1-st segment of the split (512 words) ==========
+
+
+ Hello everyone, I'm Wang Gang  Today I'm gonna share with you a home-cooked
+
+dish  Spring sprouts with two dishes  First, prepare 300g of spring sprouts  Put
+
+them in a bowl and wash them  After washing each spring sprout, cut off the
+
+roots  Next, prepare the first dish  Tofu with spring sprouts  Prepare a small
+
+piece of braised tofu  Then cut the tofu into small cubes of about 1cm  If you
+
+don't have braised tofu, you can use shigao tofu instead  Then add some water to
+
+the pot  Boil the tofu  Add 3 spoons of
+
+
+========== The 2-nd segment of the split (511 words) ==========
+
+
+salt in the middle  Add salt to the tofu to make it tender and firm inside
+
+After the water boils, turn to low heat and simmer for 2 minutes  After 2
+
+minutes, turn to high heat and bring to a boil  Then pour into the basin and
+
+soak for 10 minutes  Please note that this is the basin with water and tofu
+
+Next, start to prepare the spring sprouts  Add some water to the pot  Add 2
+
+spoons of salt and bring to a boil  After the water boils, add the spring
+
+sprouts  Add some vegetable oil before the spring sprouts
+
+
+========== The 3-rd segment of the split (511 words) ==========
+
+
+are cooked  Then turn to high heat and boil for 15 seconds  After 15 seconds,
+
+the spring sprouts will gradually turn dark green in color  Then pour out the
+
+spring sprouts and rinse them with cold water  Next, start to cut  First, put
+
+the spring sprouts on the cooked plate to tidy up  Cut the spring sprouts into
+
+half a centimeter pieces  Cut the spring sprouts shorter so that they can be
+
+stuck on the tofu  Cut the spring sprouts longer so that they can be easily
+
+picked up with chopsticks  You can change the
+
+
+========== The 4-th segment of the split (508 words) ==========
+
+
+knife according to your preference  After cutting the spring sprouts, put them
+
+in a bowl  This is to filter out the soaked tofu  At this time, the tofu is
+
+still hot  Pour it into the bowl while it's hot to season  Add some oyster sauce
+
+to the bowl  Add a spoonful of salt  Add a spoonful of MSG  Add a little sugar
+
+Add 5 grams of soy sauce  Finally, add some sesame oil to taste  After putting
+
+on gloves, stir gently  After the spring sprouts and tofu are mixed well, you
+
+can serve it on the plate  Add some
+
+
+========== The 5-th segment of the split (512 words) ==========
+
+
+sesame oil  A delicious spring sprouts and tofu are ready to serve  Now let's
+
+start the technical summary  First, the spring sprouts must be boiled  The size
+
+of the spring sprouts depends on the actual need  Second, this dish is a hot
+
+dish  So the tofu is prepared before mixing to drain the water  Third, when
+
+seasoning, use oyster sauce  Oyster sauce can not only increase the salty flavor
+
+It can also increase the stickiness of the dish  The advantage of adding oyster
+
+sauce is that it is very absorbent  The
+
+
+========== The 6-th segment of the split (510 words) ==========
+
+
+taste  Now let's start the final presentation  The second one is crispy fried
+
+spring sprouts  First, let's make crispy fried tofu  Add 60 grams of cornstarch
+
+to the bowl  Add 30 grams of flour  Add 2 eggs  Add 3 grams of salt  Add 3 grams
+
+of chicken essence  Add 1 gram of pepper  Add 1 gram of MSG  Add 2 grams of
+
+5,000-g soak powder  Add some water  Then stir the crispy fried tofu until it is
+
+non-convex  Then put on gloves and put the cooked spring sprouts into it and
+
+stir well  The process of cooking the
+
+
+========== The 7-th segment of the split (512 words) ==========
+
+
+spring sprouts is the same as the process of mixing tofu  Please go to the
+
+previous part of the process  Squeeze the water out before the spring sprouts
+
+are mixed  This is to prevent the crispy fried tofu from being absorbed  The wet
+
+crispy fried tofu will burst oil and drag the ginger when it is put into the wok
+
+Then separate each spring sprout and stir well for later use  Next step, start
+
+making  First, we heat the wok  After the wok is hot, add medium-sized oil
+
+After the oil temperature is 180 degrees,
+
+
+========== The 8-th segment of the split (508 words) ==========
+
+
+the wok is off the heat  The oil temperature at 180 degrees is only 60% hot
+
+This temperature is very suitable for spring sprouts  The performance of the
+
+spring sprouts in the oil pan is that they are first cooked to the bottom  Then
+
+they rise quickly  The process of the spring sprouts rises about 1 minute  The
+
+rise of the spring sprouts is too fast to indicate that the oil temperature is
+
+too high and easy to fry  The rise of the spring sprouts is too slow to indicate
+
+that the oil temperature is too low
+
+
+========== The 9-th segment of the split (510 words) ==========
+
+
+When the oil temperature is half the spring sprouts, stop adding the ingredients
+
+Then turn on the low heat and keep the oil temperature for 30 seconds  Fry the
+
+spring sprouts until they are cooked and set  After 30 seconds, take them out
+
+and prepare to fry the next pot  In this process, you need to clean the shavings
+
+in the oil pan  Then fry the rest of the fried tofu in the same way  Fry the
+
+spring sprouts for 5 seconds  After frying the spring sprouts, raise the oil
+
+temperature to 200 degrees  Then add
+
+
+========== The 10-th segment of the split (509 words) ==========
+
+
+the spring sprouts again and fry for 5 seconds to remove the shavings  A
+
+delicious and crispy fried spring sprouts is completed  Now let's start the
+
+technical summary  First, you must squeeze the water out before frying the
+
+spring sprouts  Otherwise, the finished product will be easy to be removed
+
+Second, you need to keep the oil temperature when frying the spring sprouts  It
+
+is best to set the temperature to 180 degrees  When adding the ingredients, try
+
+to move as fast as possible  This can prevent the
+
+
+========== The 11-th segment of the split (366 words) ==========
+
+
+number of ingredients after frying the spring sprouts from being different
+
+Third, use the oil that is crispy and crispy when frying the spring sprouts  You
+
+need to filter the oil  Clean and free of shavings can be used at least three
+
+times without getting the smell  Now let's start the finished product  Subscribe
+
+to my channel, where there's always a dish for you
